@@ -6,12 +6,6 @@ Express my gratitude to my mentor Andrii Dashkovets
 Purpose of application:
 This application represents a simple organizer allowing runners to track their progress and generate categorized results for competitions.
 
-Directories structure:
-Debug – contains working version of application with local database (requires SQL server localDb v.11, .NET4.5);
-Project Documents – requirements and development notes;
-RunResults – source code;
-ScreenShots – application UI and workflow.
-
 Key features:
 - Asynchronous data loading on startup;
 - Timing of selected races, creating scancodes for runners;
